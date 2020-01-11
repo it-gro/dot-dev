@@ -1,0 +1,3 @@
+*.sh eol=lf
+.bashrc eol=lf
+*.py eol=lf

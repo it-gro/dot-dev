@@ -1,0 +1,10 @@
+.vagrant
+.idea
+.vscode
+.ipynb_checkpoints
+tmp
+*.log
+*.bak
+*.bak.*
+*~
+*#
